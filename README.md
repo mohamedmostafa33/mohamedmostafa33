@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer from Egypt</h3><br>
 
 
-- 🔭 I’m currently working on [Sahel_Rentals](https://github.com/mohamedmostafa33/Sahel-Rentals)
+- 🔭 I’m currently working on **Sahel Rentals** (Private Project)
 
 - 📫 How to reach me **mohamedabohamama15@gmail.com**
 
